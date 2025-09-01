@@ -24,7 +24,7 @@ This repository will be used to:
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) – Simon J.D. Prince  
 - [NumPy Documentation](https://numpy.org/devdocs/user/quickstart.html)  
 - [Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)  
-- [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/)  
+- [scikit-learn Tutorials](https://scikit-learn.org/stable/user_guide.html)  
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)  
 
 ---
